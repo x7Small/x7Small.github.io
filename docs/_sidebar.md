@@ -11,10 +11,10 @@
 * [🌎互联网的接入方式](internet/jr.md)
 * [📋📋📋](https://ks.wjx.top/vm/rXxdrOi.aspx#)
 * 🔎友情链接
-  * [百度百科](https://baike.baidu.com/)
-  * [搜狗百科](https://baike.sogou.com/)
-  * [360百科](https://baike.so.com/)
-  * [科普中国](https://www.kepuchina.cn/)
+  * [🔗百度百科](https://baike.baidu.com/)
+  * [🔗搜狗百科](https://baike.sogou.com/)
+  * [🔗360百科](https://baike.so.com/)
+  * [🔗科普中国](https://www.kepuchina.cn/)
 <!-- <details>
    <summary>友情链接</summary>
     * [百度百科](https://baike.baidu.com/)
