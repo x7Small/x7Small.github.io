@@ -4,8 +4,9 @@
 
 # **数据通信**
 
-<img src="image/pic (2).gif" width="49%" height="50%"></img> <img src="image/pic (1).gif" width="49%" height="50%"></img>
-<img src="image/pic (5).gif" width="49%" height="50%"></img> <img src="image/pic (11).gif" width="49%" height="50%"></img>
+<!-- <img src="image/pic (2).gif" width="49%" height="50%"></img> -->
+ <img src="image/pic (1).gif" width="49%" height="50%"></img><img src="image/pic (5).gif" width="49%" height="50%"></img> 
+<!-- <img src="image/pic (11).gif" width="49%" height="50%"></img> -->
 
 >数据通信是计算机网络最基本的功能。  
 >在计算机网络中快速传送的文字信件、新闻消息、咨询信息、图片资料、音视频文件等都属于信息数据。
@@ -13,7 +14,7 @@
 
 # **资源共享**
 
-<img src="image/pic (3).gif" width="49%" height="50%"></img>  <img src="image/pic (7).gif" width="49%" height="50%"></img>
+<img src="image/pic (3).gif" width="49%" height="50%"></img>  <img src="image/pic (27).gif" width="49%" height="50%"></img>
 
 <img src="image/pic (4).gif" width="49%" height="50%"> </img>   <img src="image/pic (24).gif" width="49%" height="50%"></img>
 
