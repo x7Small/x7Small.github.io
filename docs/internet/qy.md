@@ -1,8 +1,9 @@
 
 
 + 起源 +
-
-   <iframe height=498 width=510 src="image/2.mp4" autoplay=0 sandbox=""> </iframe>
+<!-- <iframe height=498 width=510 src="image/2.mp4" autoplay=0 sandbox=""> </iframe> -->
+<img src="image/f8.png" width="49%" height="50%"></img>
+<img src="image/f9.png" width="49%" height="50%"></img>
 
 + 20世纪80年代 +
 
