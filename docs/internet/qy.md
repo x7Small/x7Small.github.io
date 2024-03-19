@@ -44,7 +44,7 @@
 + 2000——2019 +
   
   <img src="image/f1.png" width="49%" height="50%"></img>  
-  <!-- <img src="image/f9.png" width="49%" height="50%"></img>   -->
+  <img src="image/f4.png" width="49%" height="50%"></img>  
   >智能手机的广泛普及，开启了移动互联网的到来，我们可以称之为互联网3.0  
   >移动支付时代  
   >层出不穷的APP  
