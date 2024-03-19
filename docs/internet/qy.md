@@ -4,6 +4,9 @@
 <!-- <iframe height=498 width=510 src="image/2.mp4" autoplay=0 sandbox=""> </iframe> -->
   <img src="image/f8.png" width="49%" height="50%"></img>
   <img src="image/f9.png" width="49%" height="50%"></img>
+  > 1957年10月4日，苏联发射了人类第一颗人造地球卫星  
+  > 美国在1958年成立了高级研究计划局（ARPA），简称阿帕  
+  >196年，美军美国国防部研究计划署开始构建阿帕网
 
 + 20世纪80年代 +
   
@@ -22,6 +25,7 @@
 
   ><img src="image/f10.png" width="49%" height="50%"></img>
   ><img src="image/f5.png" width="49%" height="50%"></img>   
+  >
   >国际互联网协会（ISOC）正式成立  
   >Windows95捆绑IE问世  
   >1994年 中国互联网元年  
@@ -43,7 +47,7 @@
 
 + 2000——2019 +
   
-  <img src="image/f1.png" width="49%" height="50%"></img>  
+  <img src="image/f1.png" width="49%" height="50%"></img>
   <img src="image/f4.png" width="49%" height="50%"></img>  
   >智能手机的广泛普及，开启了移动互联网的到来，我们可以称之为互联网3.0  
   >移动支付时代  
@@ -52,4 +56,6 @@
   >“互联网＋”  
   >······
 
- 
+ + 发展 +
+<iframe  width="500" height="420"  src="image/趋势.mp4" autoplay=0 sandbox=""> </iframe>
+  

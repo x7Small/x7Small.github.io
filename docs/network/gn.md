@@ -26,6 +26,7 @@
 # **分布处理**
 
 <img src="image/pic (19).gif " width="49%" height="50%"></img> <img src="image/pic (7).gif" width="49%" height="50%"></img>
+<iframe width="500" height="400"  src="image/分布式处理.mp4" autoplay=0 sandbox=""> </iframe>
 
 <!-- <img src="image/pic (25).gif" width="49%" height="50%"></img> -->
 <!-- <img src="image/pic (15).gif" width="49%" height="50%"></img>  -->
