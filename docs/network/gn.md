@@ -6,7 +6,7 @@
 
 <!-- <img src="image/pic (2).gif" width="49%" height="50%"></img>  -->
 <img src="image/pic (1).gif" width="49%" height="50%"></img>
-<img src="image/pic (5).gif" width="50%" height="50%"></img> 
+<img src="image/pic (5).gif" width="49%" height="50%"></img> 
 <!-- <img src="image/pic (13).gif" width="49%" height="50%"></img> -->
 
 >数据通信是计算机网络最基本的功能。  
