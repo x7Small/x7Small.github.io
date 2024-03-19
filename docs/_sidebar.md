@@ -6,7 +6,7 @@
   * [资源共享](network/gn/2.md)
   * [分布处理](network/gn/3.md) -->
 * [🗃️计算机网络的分类](network/fl.md)
-* [📝📝](https://ks.wjx.top/vm/rXxdrOi.aspx#)
+* [📝📝](https://ks.wjx.top/vm/rXxdrOi.aspx# )
 * [🌐互联网](internet/qy.md)
 * [🌎互联网的接入方式](internet/jr.md)
 * [📋📋📋](https://ks.wjx.top/vm/PZGaC1d.aspx# )

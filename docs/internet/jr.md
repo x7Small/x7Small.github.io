@@ -27,9 +27,9 @@
 # **其他接入**
 
 <img src="image/移动.jpg" width="49%" height="50%"></img> 
-  <img src="image/电信.jpg" width="49%" height="50%"></img> 
-   <img src="image/广电.jpg" width="49%" height="50%"></img> 
-    <img src="image/联通.jpg" width="49%" height="50%"></img> 
+<img src="image/电信.jpg" width="49%" height="50%"></img> 
+<img src="image/广电.jpg" width="49%" height="50%"></img> 
+<img src="image/联通.jpg" width="49%" height="50%"></img> 
 
 
 
@@ -40,11 +40,11 @@
   >部分小区宽带和校园采用LAN接入方式   
   >上网用户数量较多时，容易出现上网速度慢的情况   -->
 
-  
+<!--   
 + 无线接入 +
 
  
-
+ -->
 
 
 
