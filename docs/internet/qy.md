@@ -3,8 +3,7 @@
 + 起源 +
 <!-- <iframe height=498 width=510 src="image/2.mp4" autoplay=0 sandbox=""> </iframe> -->
   <img src="image/f8.png" width="49%" height="50%"></img>
-  <img src="image/f8.png" width="49%" height="50%"></img>
-  <img src="image/f8.png" width="49%" height="50%"></img>
+  <img src="image/f9.png" width="49%" height="50%"></img>
 
 + 20世纪80年代 +
   
@@ -21,7 +20,8 @@
 
 + 20世纪90年代 +
 
-  ><img src="image/f11.png" width="49%" height="50%"></img>   
+  ><img src="image/f10.png" width="49%" height="50%"></img>
+  ><img src="image/f5.png" width="49%" height="50%"></img>   
   >国际互联网协会（ISOC）正式成立  
   >Windows95捆绑IE问世  
   >1994年 中国互联网元年  
@@ -44,6 +44,7 @@
 + 2000——2019 +
   
   <img src="image/f1.png" width="49%" height="50%"></img>  
+  <!-- <img src="image/f9.png" width="49%" height="50%"></img>   -->
   >智能手机的广泛普及，开启了移动互联网的到来，我们可以称之为互联网3.0  
   >移动支付时代  
   >层出不穷的APP  
