@@ -24,6 +24,15 @@
 >光纤接入是基于光的全反射原理，信号传输损耗远低于铜缆  
 >适用于室外及远距离的网络通信连接
 
+# **其他接入**
+
+<img src="image/移动.jpg" width="49%" height="50%"></img> 
+  <img src="image/电信.jpg" width="49%" height="50%"></img> 
+   <img src="image/广电.jpg" width="49%" height="50%"></img> 
+    <img src="image/联通.jpg" width="49%" height="50%"></img> 
+
+
+
 <!-- tabs:end -->
 
 <!-- + 其他接入 +
@@ -34,10 +43,7 @@
   
 + 无线接入 +
 
- <img src="image/移动.jpg" width="49%" height="50%"></img> 
-  <img src="image/电信.jpg" width="49%" height="50%"></img> 
-   <img src="image/广电.jpg" width="49%" height="50%"></img> 
-    <img src="image/联通.jpg" width="49%" height="50%"></img> 
+ 
 
 
 
