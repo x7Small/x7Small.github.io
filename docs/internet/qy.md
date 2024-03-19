@@ -2,11 +2,14 @@
 
 + 起源 +
 <!-- <iframe height=498 width=510 src="image/2.mp4" autoplay=0 sandbox=""> </iframe> -->
-<img src="image/f8.png" width="49%" height="50%"></img>
-<img src="image/f9.png" width="49%" height="50%"></img>
+  <img src="image/f8.png" width="49%" height="50%"></img>
+  <img src="image/f8.png" width="49%" height="50%"></img>
+  <img src="image/f8.png" width="49%" height="50%"></img>
 
 + 20世纪80年代 +
-
+  
+  <img src="image/f7.png" width="49%" height="50%"></img>
+  <img src="image/f6.png" width="49%" height="50%"></img>  
   >著名的阿帕网（ARPANET）由于感染病毒而彻底瘫痪。  
   >CSNET（计算机科学网）开始建立  
   >ARPANET全面启用TCP/IP协议  
@@ -18,7 +21,7 @@
 
 + 20世纪90年代 +
 
-  >ARPANET停止运营，WWW万维网诞生  
+  ><img src="image/f11.png" width="49%" height="50%"></img>   
   >国际互联网协会（ISOC）正式成立  
   >Windows95捆绑IE问世  
   >1994年 中国互联网元年  
@@ -26,7 +29,10 @@
  
 
 + 2000——2010年 +
-
+  
+  <!-- <img src="image/f4.png" width="49%" height="50%"></img> -->
+  <img src="image/f3.png" width="49%" height="50%"></img>
+  <img src="image/f2.png" width="49%" height="50%"></img>  
   >博客  
   >广告  
   >网游  
@@ -36,6 +42,8 @@
   >······
 
 + 2000——2019 +
+  
+  <img src="image/f1.png" width="49%" height="50%"></img>  
   >智能手机的广泛普及，开启了移动互联网的到来，我们可以称之为互联网3.0  
   >移动支付时代  
   >层出不穷的APP  
