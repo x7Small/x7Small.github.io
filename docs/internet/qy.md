@@ -57,5 +57,5 @@
   >······
 
  + 发展 +
-<iframe  width="500" height="420"  src="image/趋势.mp4" autoplay=0 sandbox=""> </iframe>
+<iframe  width="360" height="230"  src="image/趋势.mp4" autoplay=0 sandbox=""> </iframe>
   
